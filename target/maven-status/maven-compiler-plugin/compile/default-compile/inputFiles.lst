@@ -1,0 +1,6 @@
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\config\KafkaConsumerConfig.java
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\controllerRest\KafkaController.java
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\deserializer\VendaDeserializer.java
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\model\Venda.java
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\ProcessadorVendas.java
+C:\Users\ingrid.medeiros\ProjetosVSCode\processamento-vendas\src\main\java\servico\KafkaConsumerService.java
